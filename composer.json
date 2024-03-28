@@ -1,5 +1,5 @@
 {
-    "name": "worldstream-labs/omnipay-paysafecard",
+    "name": "bennetgallein/omnipay-paysafecard",
     "type": "library",
     "description": "Paysafecard driver for the Omnipay payment processing library",
     "keywords": [
@@ -21,7 +21,7 @@
         }
     },
     "require": {
-        "php": "^7.1.0",
+        "php": "^7.1.0|^8",
         "omnipay/common": "^3.0.1",
         "ext-json": "*"
     },
